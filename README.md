@@ -11,7 +11,7 @@ I’m a Senior M365 engineer at Content Formula, building enterprise Microsoft 3
 - [Agent Efficiency Tools](https://github.com/vystartasv/agent-efficiency-tools) — inspect media, documents, tests, and command output while preserving the original evidence.
 - [ORA](https://github.com/vystartasv/ora) — coordinate agent work from task breakdown through verification and reconciliation.
 - [SPFx Fast](https://github.com/vystartasv/spfx-fast) — build SharePoint apps with Graph and REST data, React hooks, and agent-ready starters.
-- [Works With Agents](https://workswithagents.com) — agent interoperability and practical UK procurement tools.
+- [Works With Agents](https://workswithagents.com) — independent engineering assessments of product code, delivery, security, and recovery.
 
 At work, I build [Lightspeed365](https://lightspeedintranet.com) and [Xoralia](https://xoralia.com) for Microsoft 365.
 
